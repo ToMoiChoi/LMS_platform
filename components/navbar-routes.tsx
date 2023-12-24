@@ -6,7 +6,7 @@ import { LogOut } from "lucide-react";
 import Link from "next/link";
 
 import { Button } from "@/components/ui/button";
-import { isTeacher } from "@/lib/teacher";
+// import { isTeacher } from "@/lib/teacher";
 
 import { SearchInput } from "./search-input";
 
